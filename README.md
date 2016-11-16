@@ -1,2 +1,3 @@
-# teste-loja
-Loja desenvolvida como teste de uma vaga de Estágio
+# Loja
+
+Software feito como teste para vaga de Estágio da empresa Valemobi
